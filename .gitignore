@@ -7,3 +7,4 @@ test.rb
 *.sqlite3
 .bundle
 *.log
+.ruby-version
